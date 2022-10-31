@@ -1,4 +1,4 @@
-# Ocotober 2022; Sleepless in Seattle
+# Sleepless in Seattle [October 2022]
 The project focuses on the analysis on Margin Trade. 
 
 Details can be found in the Medium. 
