@@ -9,5 +9,4 @@ link: https://medium.com/@burrybaum
 Please reach out to @burrybaum for more inforamtion. 
 
 Best, 
-
 BurryBaum 
